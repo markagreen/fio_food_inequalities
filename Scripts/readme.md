@@ -1,5 +1,5 @@
 # R Scripts
-The folder contains the following files:
+The folder contains the following R files:
 
 1. *clean_consumer_data.R* - loads the retailer data in chunks (as too large to load into memory), cleans and processes the data to estimate outcome measures based on food purchases, and aggregates to household level data.
 2. *aggregate_food_categories_imd.R* - similar to above but creates aggregated estimates of outcome varaibles for living and food costs survey food categories by deprivation tenth (weighted for sample characteristics).
